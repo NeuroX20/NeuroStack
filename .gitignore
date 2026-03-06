@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.out
+
+# Go
+*.test
+
+# Node
+node_modules/
+dist/
+.env
+
+# Database
+*.sql
+*.db
+
+# OS
+.DS_Store
